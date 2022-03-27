@@ -1,0 +1,37 @@
+{
+    "id":1,
+    "name":"Gameweek 1",
+    "deadline_time":"2021-08-13T17:30:00Z",
+    "average_entry_score":69,
+    "finished":true,
+    "data_checked":true,
+    "highest_scoring_entry":5059647,
+    "deadline_time_epoch":1628875800,
+    "deadline_time_game_offset":0,
+    "highest_score":150,
+    "is_previous":false,
+    "is_current":false,
+    "is_next":false,
+    "cup_leagues_created":false,
+    "h2h_ko_matches_created":false,
+    "chip_plays":[
+        {
+            "chip_name":"bboost",
+            "num_played":145658
+        },
+        {
+            "chip_name":"3xc",
+            "num_played":225749
+        }
+    ],
+    "most_selected":275,
+    "most_transferred_in":1,
+    "top_element":277,
+    "top_element_info":{
+        "id":277,
+        "points":20
+    },
+    "transfers_made":0,
+    "most_captained":233,
+    "most_vice_captained":277
+}
